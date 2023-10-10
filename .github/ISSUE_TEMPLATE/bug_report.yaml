@@ -1,5 +1,5 @@
 name: Bug Report
-description: I think I found something wrong!
+description: Use this form to document an issue you've found with this software
 labels: [bug]
 assignees:
   - Jonathan-Zollinger
