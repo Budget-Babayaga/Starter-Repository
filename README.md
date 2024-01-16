@@ -45,4 +45,5 @@ ___
  See our [contributing] doc before taking a whack at any [open issues].
  
 [contributing]:Contributing.md
-[open issues]:https://github.com/Graqr/Java-Template/issues?q=is%3Aopen+is%3Aissue <!--TODO: update to new repo name post clone -->
+<!--TODO: update to new repo name post clone -->
+[open issues]:https://github.com/Graqr/Java-Template/issues?q=is%3Aopen+is%3Aissue 
