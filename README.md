@@ -1,8 +1,12 @@
-// [![Build](https://github.com/PeanutButter-Unicorn/{{projectName}}/actions/workflows/maven.yml/badge.svg)](https://github.com/PeanutButter-Unicorn/{{projectName}}/actions)
-// ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PeanutButter-Unicorn/{{projectName}})
-// ![GitHub](https://img.shields.io/github/license/PeanutButter-Unicorn/{{projectName}})
-// ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/PeanutButter-Unicorn/{{projectName}}/main)
-// ![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/PeanutButter-Unicorn/{{projectName}})
+---
+
+
+---
+[![Build](https://github.com/Graqr/Java-Template/actions/workflows/maven.yml/badge.svg)](https://github.com/Graqr/Java-Template/actions)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Graqr/Java-Template)
+![GitHub](https://img.shields.io/github/license/Graqr/Java-Template)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/Graqr/Java-Template/main)
+![GitHub commit activity (branch)](https://img.shields.io/github/commit-activity/y/Graqr/Java-Template)
 
 ## Summary
 
@@ -41,4 +45,4 @@ ___
  See our [contributing] doc before taking a whack at any [open issues].
  
 [contributing]:Contributing.md
-[open issues]:issues
+[open issues]:https://github.com/Graqr/Java-Template/issues?q=is%3Aopen+is%3Aissue <!--TODO: update to new repo name post clone -->
